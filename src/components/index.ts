@@ -62,3 +62,4 @@ export {
   ShowOverlayType
 } from "./Overlay";
 export { default as Select } from "./Select";
+export { default as NotificationTemplate } from "./NotificationTemplate";
